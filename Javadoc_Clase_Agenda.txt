@@ -1,0 +1,52 @@
+COMENTARIOS JAVADOC CLASE AGENDA
+
+
+/**
+ * La clase Agenda gestiona una lista de contactos.
+ * Permite añadir, eliminar y modificar contactos y sus números de teléfono.
+ *
+ * @author TuNombre
+ * @version 1.0
+ * @since 2025
+ */
+
+
+ /**
+     * Constructor que inicializa la lista de contactos.
+     */
+
+/**
+     * Añade un contacto a la agenda. Si el contacto ya existe, añade el número de teléfono al contacto existente.
+     *
+     * @param name el nombre del contacto
+     * @param phone el número de teléfono del contacto
+     */
+
+
+/**
+     * Añade un contacto a la agenda. Si el contacto ya existe, añade el número de teléfono al contacto existente.
+     *
+     * @param name el nombre del contacto
+     * @param phone el número de teléfono del contacto
+     */
+
+/**
+     * Elimina un contacto de la agenda por su nombre.
+     *
+     * @param name el nombre del contacto a eliminar
+     */
+
+
+/**
+     * Modifica el número de teléfono de un contacto existente.
+     *
+     * @param name el nombre del contacto
+     * @param oldPhone el número de teléfono antiguo
+     * @param newPhone el nuevo número de teléfono
+     */
+
+/**
+     * Obtiene la lista de contactos.
+     *
+     * @return la lista de contactos
+     */

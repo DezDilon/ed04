@@ -1,0 +1,32 @@
+COMENTARIOS JAVADOC CLASE CONTACTO
+
+
+/**
+ * La clase Contacto representa un contacto con un nombre y una lista de números de teléfono.
+ * 
+ * @author TuNombre
+ * @version 1.0
+ * @since 2025
+ */
+
+    /**
+     * Constructor que inicializa un contacto con un nombre y un número de teléfono.
+     * 
+     * @param name el nombre del contacto
+     * @param phone el número de teléfono inicial del contacto
+     */
+
+
+    /**
+     * Obtiene el nombre del contacto.
+     * 
+     * @return el nombre del contacto
+     */
+
+
+    /**
+     * Obtiene la lista de números de teléfono del contacto.
+     * 
+     * @return la lista de números de teléfono
+     */
+    
